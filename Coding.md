@@ -5,4 +5,6 @@ And personal notes focusing on all my cs projects.
 
 # Tags
 
-
+- Esp32
+- Rust
+- Ai
