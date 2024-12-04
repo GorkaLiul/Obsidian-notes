@@ -1,10 +1,3 @@
 #  _what is this_
 
-This is a section with 
-
-
-
-
-
-
-This is a section dedicated to 
+This is a section dedicated to __research information 
