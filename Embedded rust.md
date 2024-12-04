@@ -6,4 +6,4 @@ This is a section dedicated to store _research information_ related to embedded 
 # what will it include?
 
 It is meant to store topics like #esp32 
-#crates #espressif documentation, #github repos... #Youtube videos #wikis 
+#crates #espressif documentation, #github repos... #Youtube videos #wiki (sites with topic related info) and #article
