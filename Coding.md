@@ -5,7 +5,9 @@ And personal notes focusing on all my cs projects.
 
 # categories  (future)
 
-[[Embedded rust ]]
+- [[Embedded rust ]]
+- [[Rust]]
+- []
 
 
 
