@@ -3,7 +3,7 @@
 This is a section containing *__resources__* 
 And personal notes focusing on all my cs projects.
 
-# Tags
+# Tags (future)
 
 - Esp32
 - Rust
