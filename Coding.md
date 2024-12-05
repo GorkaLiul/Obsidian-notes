@@ -10,8 +10,6 @@ And personal notes focusing on all my cs projects.
 - [[Game dev]]
 
 
-
-
 # Tags (future)
 
 - Esp32
