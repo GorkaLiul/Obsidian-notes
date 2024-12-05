@@ -13,4 +13,3 @@ All my life I've been told I'm a mess and my brains chaotic by nature. I strongl
 [[Be better]]
 [[School]]
 
-Toca un clip para pegarlo en el cuadro de texto.
