@@ -11,3 +11,4 @@ All my life I've been told I'm a mess and my brains chaotic by nature. I strongl
 [[Daily notes]]
 [[Coding]]
 [[Be better]]
+[[School]]
