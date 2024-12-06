@@ -23,4 +23,3 @@ url: "https://github.com/esp-rs/esp-idf-template "
 ```
 
 ---
-
