@@ -16,8 +16,13 @@
 
 #Esp32  Rust target
 
+
+| MCU   | TARGET |
+| ----- | ------ |
+| ESP32 |        |
+
 MCU	Target
-ESP32	xtensa-esp32-espidf
+	
 ESP32-S2	xtensa-esp32s2-espidf
 ESP32-S3	xtensa-esp32s3-espidf
 ESP32-C2	riscv32imc-esp-espidf
