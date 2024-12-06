@@ -7,7 +7,7 @@ ESP32-S3: std | no_std
 ESP32: std | no_std
 ESP32-c3: std  | no_std
 ESP32-C6: std | no_std
-ESP32-s3
+ESP32-H2
 # Template for esp32-idf
 
 ## repo at:
