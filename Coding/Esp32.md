@@ -2,7 +2,7 @@
 
 
 ---
-## #Esp32 compatibility with std
+## #Esp32 compatibility with std and no-std
 
 
 | Board<br>    | std | no_std |
@@ -13,7 +13,9 @@
 | ESP32-H2<br> | yes | yes    |
 | ESP-8266     | no  | kinda  |
 | ESP32-s3     | yes | yes    |
+
 ---
+
 ## #Esp32  Rust target
 
 | MCU       | TARGET                        |
