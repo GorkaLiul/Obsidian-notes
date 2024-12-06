@@ -16,7 +16,7 @@
 
 ---
 ## Template for esp32-idf
-### repo at:
+### #Github   repo at:
 	https://github.com/esp-rs/esp-idf-template 
 ```embed
 title: "GitHub - esp-rs/esp-idf-template: A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework."
@@ -26,8 +26,9 @@ url: "https://github.com/esp-rs/esp-idf-template "
 ```
 
 ---
-
 ## __Using the embedded screen__
 
 here I will be listing all the information related to usign the oled screen with an esp32. 
-Topics like #Crates #Github 
+Topics like #Crates #Github repos and #Youtube  videos will be listed.
+
+
