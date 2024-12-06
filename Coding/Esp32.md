@@ -30,6 +30,3 @@ url: "https://github.com/esp-rs/esp-idf-template "
 
 here I will be listing all the information related to usign the oled screen with an esp32. 
 Topics like #Crates #Github repos and #Youtube  videos will be listed.
-
-
-	
