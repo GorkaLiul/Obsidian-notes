@@ -2,7 +2,7 @@
 
 
 ---
-# #Esp32 compatibility with std
+## #Esp32 compatibility with std
 
 ESP32-S3: std | no_std
 ESP32: std | no_std
@@ -12,8 +12,8 @@ ESP32-H2: std | no_std
 ESP8266:  no_std (more or less)
 
 ---
-# Template for esp32-idf
-## repo at:
+## Template for esp32-idf
+### repo at:
 	https://github.com/esp-rs/esp-idf-template 
 ```embed
 title: "GitHub - esp-rs/esp-idf-template: A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework."
@@ -22,7 +22,5 @@ description: "A “Hello, world!” template of a Rust binary crate for the ESP-
 url: "https://github.com/esp-rs/esp-idf-template "
 ```
 
-
---
-
+---
 
