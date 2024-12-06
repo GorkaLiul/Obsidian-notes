@@ -26,3 +26,8 @@ url: "https://github.com/esp-rs/esp-idf-template "
 ```
 
 ---
+
+## __Using the embedded screen__
+
+here I will be listing all the information related to usign the oled screen with an esp32. 
+Topics like #Crates #Github 
