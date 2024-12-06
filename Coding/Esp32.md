@@ -16,20 +16,15 @@
 
 #Esp32  Rust target
 
-
 | MCU       | TARGET                        |
 | --------- | ----------------------------- |
 | ESP32<br> | xtensa-esp32-espidf           |
 | ESP32-S2  | ESP32	xtensa-esp32-espidf<br> |
 | ESP32-S3  | xtensa-esp32s3-espidf         |
-| ESP32-C2	 |                               |
-
-MCU	Target
-	
-riscv32imc-esp-espidf
-ESP32-C3	riscv32imc-esp-espidf
-ESP32-C6	riscv32imac-esp-espidf
-ESP32-H2	riscv32imac-esp-espidf
+| ESP32-C2  | riscv32imc-esp-espidf         |
+| ESP32-C3  | riscv32imc-esp-espidf         |
+| ESP32-C6  | riscv32imac-esp-espidf        |
+| ESP32-H2  | riscv32imac-esp-espidf        |
 ESP32-P4	riscv32imafc-esp-espidf
 ---
 ## Template for esp32-idf
@@ -37,12 +32,15 @@ ESP32-P4	riscv32imafc-esp-espidf
 	https://github.com/esp-rs/esp-idf-template 
 ```embed
 title: "GitHub - esp-rs/esp-idf-template: A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework."
-image: "https://opengraph.githubassets.com/61296cb7c626a67651b70ebd3aa40ff26d528ad4bfba6808dd4622b1bfd0fe56/esp-rs/esp-idf-template"
+[]()image: "https://opengraph.githubassets.com/61296cb7c626a67651b70ebd3aa40ff26d528ad4bfba6808dd4622b1bfd0fe56/esp-rs/esp-idf-template"
 description: "A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework. - esp-rs/esp-idf-template"
 url: "https://github.com/esp-rs/esp-idf-template "
 ```
 
 ---
+
+
+
 ## __Using the embedded screen__
 
 here I will be listing all the information related to usign the oled screen with an esp32. 
