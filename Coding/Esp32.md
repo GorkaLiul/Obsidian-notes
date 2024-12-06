@@ -3,11 +3,14 @@
 # #Esp32 compatibility with std
 ![[Pasted image 20241205225622.png]]
 
-
-
+ESP32-S3: std | no_std
+ESP32: std | no_std
+ESP32-c3: std  | no_std
+ESP32-C6: std | no_std
+ESP32-S
 # Template for esp32-idf
 
-repo at:
+## repo at:
 	https://github.com/esp-rs/esp-idf-template 
 ```embed
 title: "GitHub - esp-rs/esp-idf-template: A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework."
@@ -15,6 +18,8 @@ image: "https://opengraph.githubassets.com/61296cb7c626a67651b70ebd3aa40ff26d528
 description: "A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework. - esp-rs/esp-idf-template"
 url: "https://github.com/esp-rs/esp-idf-template "
 ```
+
+
 
 
 
