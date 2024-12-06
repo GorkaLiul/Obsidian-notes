@@ -5,6 +5,7 @@
 ## #Esp32 compatibility with std and no-std
 
 
+
 | Board<br>    | std | no_std |
 | ------------ | --- | ------ |
 | ESP32        | yes | yes    |
