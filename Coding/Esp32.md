@@ -6,12 +6,16 @@
 
 
 
-| Board<br> | std | no_std |
-| --------- | --- | ------ |
-| <br>ESP32 |     |        |
-|           |     |        |
-|           |     |        |
-|           |     |        |
+| Board<br>    | std | no_std |
+| ------------ | --- | ------ |
+| ESP32        | yes | yes    |
+| ESP32-C3     | yes |        |
+| ESP32-C6     | yes | yes    |
+| ESP32-H2<br> | yes | yes    |
+| ESP-8266     | no  | kinda  |
+| ESP32-s3     | yes | yes    |
+|              |     |        |
+
 
 ESP32: std | no_std
 ESP32-C3: std  | no_std
