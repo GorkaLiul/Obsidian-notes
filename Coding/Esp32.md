@@ -1,15 +1,18 @@
 # __*this is a section related to Esp32 with embedded rust*__ 
 
+
+---
 # #Esp32 compatibility with std
-![[Pasted image 20241205225622.png]]
 
 ESP32-S3: std | no_std
 ESP32: std | no_std
-ESP32-c3: std  | no_std
+ESP32-C3: std  | no_std
 ESP32-C6: std | no_std
-ESP32-H2
-# Template for esp32-idf
+ESP32-H2: std | no_std
+ESP8266:  no_std (more or less)
 
+---
+# Template for esp32-idf
 ## repo at:
 	https://github.com/esp-rs/esp-idf-template 
 ```embed
@@ -20,6 +23,6 @@ url: "https://github.com/esp-rs/esp-idf-template "
 ```
 
 
-
+--
 
 
