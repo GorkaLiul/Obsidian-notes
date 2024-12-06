@@ -4,7 +4,15 @@
 ---
 ## #Esp32 compatibility with std
 
-ESP32-S3: std | no_std
+
+
+| Board<br> | std | no_std |
+| --------- | --- | ------ |
+| <br>ESP32 |     |        |
+|           |     |        |
+|           |     |        |
+|           |     |        |
+
 ESP32: std | no_std
 ESP32-C3: std  | no_std
 ESP32-C6: std | no_std
