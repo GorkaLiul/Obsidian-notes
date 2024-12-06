@@ -14,6 +14,21 @@
 | ESP-8266     | no  | kinda  |
 | ESP32-s3     | yes | yes    |
 
+#Esp32  Rust target
+
+
+|     |     |
+| --- | --- |
+|     |     |
+
+ESP32	xtensa-esp32-espidf
+ESP32-S2	xtensa-esp32s2-espidf
+ESP32-S3	xtensa-esp32s3-espidf
+ESP32-C2	riscv32imc-esp-espidf
+ESP32-C3	riscv32imc-esp-espidf
+ESP32-C6	riscv32imac-esp-espidf
+ESP32-H2	riscv32imac-esp-espidf
+ESP32-P4	riscv32imafc-esp-espidf
 ---
 ## Template for esp32-idf
 ### #Github   repo at:
