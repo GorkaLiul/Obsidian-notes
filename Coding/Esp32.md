@@ -15,3 +15,4 @@ image: "https://opengraph.githubassets.com/61296cb7c626a67651b70ebd3aa40ff26d528
 description: "A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework. - esp-rs/esp-idf-template"
 url: "https://github.com/esp-rs/esp-idf-template "
 ```
+
