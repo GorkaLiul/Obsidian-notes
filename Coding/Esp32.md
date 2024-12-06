@@ -4,4 +4,8 @@
 ![[Pasted image 20241205225622.png]]
 
 
-Source 
+
+# Template for esp32-idf
+
+repo at:
+https://github.com/esp-rs/esp-idf-template 
