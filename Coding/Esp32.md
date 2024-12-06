@@ -5,7 +5,6 @@
 ## #Esp32 compatibility with std
 
 
-
 | Board<br>    | std | no_std |
 | ------------ | --- | ------ |
 | ESP32        | yes | yes    |
@@ -14,14 +13,7 @@
 | ESP32-H2<br> | yes | yes    |
 | ESP-8266     | no  | kinda  |
 | ESP32-s3     | yes | yes    |
-|              |     |        |
 
-
-ESP32: std | no_std
-ESP32-C3: std  | no_std
-ESP32-C6: std | no_std
-ESP32-H2: std | no_std
-ESP8266:  no_std (more or less)
 
 ---
 ## Template for esp32-idf
