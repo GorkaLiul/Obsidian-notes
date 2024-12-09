@@ -8,6 +8,8 @@ And personal notes focusing on all my cs projects.
 - [[Embedded rust ]]
 - [[Rust]]
 - [[Game dev]]
+- [[Project ideas]]
+-
 
 
 # Tags (future)
