@@ -28,4 +28,4 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 ## Energía 
 
 ## Definición
- - *La energía se define como la capacidad de hacer un trabajo sobre si miso o en su entorno*
+ - *La energía se define como la capacidad de un objeto de hacer un trabajo sobre si miso o en su entorno*
