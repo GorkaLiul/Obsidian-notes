@@ -17,4 +17,9 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 
 ## Tipos de trabajo mecánico
 
-- Dependiendo del **resultado** de la **multiplicación escalar** W puede ser POSITIVO O NEGATIVO en función de la dirección de
+- Dependiendo del **resultado** de la **multiplicación escalar** *W puede ser POSITIVO O NEGATIVO en función de la dirección del desplazamiento*
+
+
+| W   | POSITIVO | NEGATIVO |
+| --- | -------- | -------- |
+| W1  |          |          |
