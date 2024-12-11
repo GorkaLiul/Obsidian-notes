@@ -42,3 +42,6 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 | Térmica  | *la capacidad de transmitir calor o de producirlo*<br>              |
 | Cinética | *Energía asociada al movimiento de un objeto* <br>                  |
 
+---
+
+## Potencia
