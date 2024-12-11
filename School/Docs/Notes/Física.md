@@ -32,4 +32,11 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
  ### Características
  - Se conserva
  - Se transmite con facilidad
- - 
+ - Se transforma en diferentes tipos de energía
+### Tipos de energía
+
+
+| Tipo |     |
+| ---- | --- |
+|      |     |
+
