@@ -11,6 +11,5 @@ W=F⋅d
 W=∣F∣∣d∣cosθ
 ```
 
-
-Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicación escalar entre la la fuerza (vector) y el desplazamiento resultante ()
+Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicación escalar entre la la fuerza (vector) y el desplazamiento resultante (vector).  **dando como RESULTADO, UN ESCALAR**
 
