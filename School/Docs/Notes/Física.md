@@ -24,7 +24,6 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 | W1  | *trabajo efectivo* | *Trabajo de resistencia |
 
 ---
-
 ## Energía 
 
 ### Definición
