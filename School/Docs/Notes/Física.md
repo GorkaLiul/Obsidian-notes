@@ -19,9 +19,9 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 
 - Dependiendo del **resultado** de la **multiplicación escalar** *W puede ser POSITIVO O NEGATIVO en función de la dirección del desplazamiento*
 
-| W   | POSITIVO           | NEGATIVO           |
-| --- | ------------------ | ------------------ |
-| W1  | *trabajo efectivo* | *Trabajo de carga* |
+| W   | POSITIVO           | NEGATIVO                |
+| --- | ------------------ | ----------------------- |
+| W1  | *trabajo efectivo* | *Trabajo de resistencia |
 
 ---
 
