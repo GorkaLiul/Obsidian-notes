@@ -36,7 +36,7 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 ### Tipos de energía
 
 
-| Tipo |     |
-| ---- | --- |
-|      |     |
+| Nombre   | Tipo                                |
+| -------- | ----------------------------------- |
+| Mecánica | *la capacidad de mover otro objeto* |
 
