@@ -8,5 +8,7 @@
 - Sigue la formula:  
 ``` **
 W=F⋅d
+W=∣F∣∣d∣cosθ
+
 ```
 
