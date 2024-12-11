@@ -9,7 +9,6 @@ And personal notes focusing on all my cs projects.
 - [[Rust]]
 - [[Game dev]]
 - [[Project ideas]]
--
 
 
 # Tags (future)
