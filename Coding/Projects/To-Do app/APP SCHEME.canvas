@@ -69,10 +69,20 @@
       "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n",
       "styleAttributes": {},
       "x": -10,
-      "y": 480,
+      "y": 500,
       "width": 280,
       "height": 160,
       "color": "1"
+    },
+    {
+      "id": "6838c17b25a7b9b5",
+      "type": "text",
+      "text": "# TERMINAL",
+      "styleAttributes": {},
+      "x": -10,
+      "y": 760,
+      "width": 410,
+      "height": 140
     }
   ],
   "edges": [
@@ -107,21 +117,40 @@
     },
     {
       "id": "60d71aae37f6f0bb",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
       "fromNode": "e47da5ab3b242f72",
       "fromSide": "right",
       "toNode": "e62d3e58f0d61622",
       "toSide": "left"
     },
     {
-      "id": "599cfee06f2694d0",
+      "id": "f3f2f06af474f996",
       "styleAttributes": {
         "arrow": "triangle-outline"
       },
-      "fromNode": "a63f7543f97a34a5",
+      "fromNode": "e47da5ab3b242f72",
+      "fromSide": "top",
+      "toNode": "c10970d1970181e4",
+      "toSide": "bottom",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "9800923f59659723",
+      "styleAttributes": {},
+      "fromNode": "e62d3e58f0d61622",
       "fromSide": "bottom",
-      "toNode": "e47da5ab3b242f72",
+      "toNode": "6838c17b25a7b9b5",
       "toSide": "top"
+    },
+    {
+      "id": "82b6d694b3688330",
+      "styleAttributes": {},
+      "fromNode": "e47da5ab3b242f72",
+      "fromSide": "bottom",
+      "toNode": "6838c17b25a7b9b5",
+      "toSide": "left"
     }
   ],
   "metadata": {}
