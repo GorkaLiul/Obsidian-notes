@@ -55,12 +55,12 @@
     {
       "id": "e62d3e58f0d61622",
       "type": "text",
-      "text": "# TODO.TXT\n\n- [ ] ***Task 1***\n- [ ] ***Task 2***\n- [ ] ***Task 3***",
+      "text": "# TODO.TXT\n\n1. ***Task1&Description&Tags&Status-***\n2.  ***Task2&Description&Tags&Status-*** ",
       "styleAttributes": {},
-      "x": 350,
+      "x": 400,
       "y": 480,
       "width": 260,
-      "height": 200,
+      "height": 260,
       "color": "2"
     },
     {
@@ -77,12 +77,12 @@
     {
       "id": "6838c17b25a7b9b5",
       "type": "text",
-      "text": "# TERMINAL\n\n## I/0 Connection\n---\n- [ ] ***Task1***",
+      "text": "# TERMINAL\n\n## I/0 Connection\n---\n- [ ] ***Task1***\n- [ ] ***Task2***\n- [ ] ***Task3***",
       "styleAttributes": {},
       "x": 210,
       "y": 760,
       "width": 410,
-      "height": 200
+      "height": 260
     }
   ],
   "edges": [
