@@ -77,12 +77,12 @@
     {
       "id": "6838c17b25a7b9b5",
       "type": "text",
-      "text": "\n# TERMINAL",
+      "text": "# TERMINAL\n\n## I/0 Connection\n---\n- [ ] ***Task1***",
       "styleAttributes": {},
       "x": 210,
       "y": 760,
       "width": 410,
-      "height": 100
+      "height": 200
     }
   ],
   "edges": [
