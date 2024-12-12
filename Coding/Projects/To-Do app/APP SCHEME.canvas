@@ -55,12 +55,12 @@
     {
       "id": "e62d3e58f0d61622",
       "type": "text",
-      "text": "#",
+      "text": "# TODO.TXT\n\n- [ ] **",
       "styleAttributes": {},
       "x": 240,
       "y": 520,
       "width": 260,
-      "height": 40
+      "height": 140
     }
   ],
   "edges": [
