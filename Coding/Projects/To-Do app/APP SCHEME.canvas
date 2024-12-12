@@ -62,6 +62,16 @@
       "width": 260,
       "height": 200,
       "color": "2"
+    },
+    {
+      "id": "e47da5ab3b242f72",
+      "type": "text",
+      "text": "   # $ APP_SOURCE\n\n",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 100
     }
   ],
   "edges": [
