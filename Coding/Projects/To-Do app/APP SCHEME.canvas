@@ -1,16 +1,6 @@
 {
   "nodes": [
     {
-      "id": "c10970d1970181e4",
-      "type": "text",
-      "text": "# FI",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 320,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "8ce2d11052e75800",
       "type": "text",
       "text": "",
@@ -18,6 +8,25 @@
       "y": 320,
       "width": 200,
       "height": 100
+    },
+    {
+      "id": "c10970d1970181e4",
+      "type": "text",
+      "text": "# FILESYSTEM",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 320,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "d65e94019b86c253",
+      "type": "file",
+      "file": "Pasted image 20241212213659.png",
+      "x": 70,
+      "y": 390,
+      "width": 60,
+      "height": 60
     }
   ],
   "edges": [
