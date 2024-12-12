@@ -55,12 +55,12 @@
     {
       "id": "e62d3e58f0d61622",
       "type": "text",
-      "text": "# TODO.TXT\n\n- [ ] **",
+      "text": "# TODO.TXT\n\n- [ ] ***Task 1***\n- [ ] ***Task 2***\n- [ ] ***Task 3***",
       "styleAttributes": {},
       "x": 240,
       "y": 520,
       "width": 260,
-      "height": 140
+      "height": 200
     }
   ],
   "edges": [
