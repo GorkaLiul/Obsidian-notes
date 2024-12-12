@@ -48,7 +48,7 @@
       "styleAttributes": {},
       "x": 380,
       "y": 280,
-      "width": 260,
+      "width": 200,
       "height": 140,
       "color": "4"
     },
@@ -57,8 +57,8 @@
       "type": "text",
       "text": "# TODO.TXT\n\n- [ ] ***Task 1***\n- [ ] ***Task 2***\n- [ ] ***Task 3***",
       "styleAttributes": {},
-      "x": 240,
-      "y": 520,
+      "x": 280,
+      "y": 500,
       "width": 260,
       "height": 200,
       "color": "2"
