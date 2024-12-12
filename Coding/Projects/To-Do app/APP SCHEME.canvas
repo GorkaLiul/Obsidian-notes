@@ -1,8 +1,10 @@
 {
 	"nodes":[
+		{"id":"bfe549032f7d6c3b","x":-105,"y":-28,"width":345,"height":120,"type":"group"},
 		{"id":"6fa1935e24036b5e","type":"text","text":"FILESYSTEM","x":-122,"y":-142,"width":162,"height":50},
-		{"id":"fb3499a1ec1c9f9e","type":"text","text":"Folder for TO-DOS","x":-55,"y":-12,"width":250,"height":60,"color":"6"},
-		{"id":"fe57e73f9ad0abdb","type":"text","text":"","x":-120,"y":160,"width":250,"height":50}
+		{"id":"fe57e73f9ad0abdb","type":"text","text":"","x":-120,"y":160,"width":250,"height":50},
+		{"id":"fb3499a1ec1c9f9e","type":"text","text":"Folder for TO-DOS","x":-85,"y":6,"width":250,"height":52,"color":"6"},
+		{"id":"974d9db465ac59cd","type":"file","file":"3767084.webp","x":140,"y":-8,"width":80,"height":80}
 	],
 	"edges":[
 		{"id":"6a419ba1e54b8d90","fromNode":"6fa1935e24036b5e","fromSide":"bottom","toNode":"fb3499a1ec1c9f9e","toSide":"top"},
