@@ -1,11 +1,12 @@
 {
 	"nodes":[
-		{"id":"6fa1935e24036b5e","type":"text","text":"**FILESYSTEM**","x":-122,"y":-180,"width":242,"height":120},
-		{"id":"fe57e73f9ad0abdb","type":"text","text":"","x":-120,"y":160,"width":250,"height":50},
-		{"id":"fb3499a1ec1c9f9e","type":"text","text":"Folder for TO-DOS","x":-60,"y":6,"width":250,"height":92,"color":"6"},
+		{"id":"6fa1935e24036b5e","type":"text","text":"# **FILESYSTEM**","x":-122,"y":-180,"width":242,"height":120},
 		{"id":"0a251741c5dba035","type":"file","file":",.png","x":-110,"y":-120,"width":50,"height":50},
-		{"id":"17150149ab6ea964","type":"file","file":",.png","x":-60,"y":-120,"width":50,"height":50},
-		{"id":"6a432b0ea874ba12","type":"file","file":",.png","x":-10,"y":-120,"width":50,"height":50}
+		{"id":"17150149ab6ea964","type":"file","file":",.png","x":-40,"y":-120,"width":50,"height":50},
+		{"id":"6a432b0ea874ba12","type":"file","file":",.png","x":30,"y":-120,"width":50,"height":50},
+		{"id":"fb3499a1ec1c9f9e","type":"text","text":"# ***Folder for TO-DOS**","x":-95,"y":24,"width":250,"height":92,"color":"6"},
+		{"id":"04414e593aa7542d","type":"file","file":",.png","x":95,"y":45,"width":50,"height":50},
+		{"id":"fe57e73f9ad0abdb","type":"text","text":"","x":155,"y":200,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"6a419ba1e54b8d90","fromNode":"6fa1935e24036b5e","fromSide":"bottom","toNode":"fb3499a1ec1c9f9e","toSide":"top"},
