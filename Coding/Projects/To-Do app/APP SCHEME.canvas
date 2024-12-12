@@ -60,7 +60,8 @@
       "x": 240,
       "y": 520,
       "width": 260,
-      "height": 200
+      "height": 200,
+      "color": "2"
     }
   ],
   "edges": [
