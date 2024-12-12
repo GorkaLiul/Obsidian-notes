@@ -55,7 +55,7 @@
     {
       "id": "e62d3e58f0d61622",
       "type": "text",
-      "text": "# TODO.TXT\n\n1. ***Task1&Description&Tags&Status-***\n2.  ***Task2&Description&Tags&Status-*** ",
+      "text": "# TODO.TXT\n\n1. ***Task1&Description&Tags&Status-***\n2. \n3.  ***Task2&Description&Tags&Status-*** ",
       "styleAttributes": {},
       "x": 400,
       "y": 480,
@@ -77,7 +77,7 @@
     {
       "id": "6838c17b25a7b9b5",
       "type": "text",
-      "text": "# TERMINAL\n\n## I/0 Connection\n---\n- [ ] ***Task1***\n- [ ] ***Task2***\n- [ ] ***Task3***",
+      "text": "# TERMINAL\n\n## I/0 Connection\n---\n- [ ] ***Task1***  \n- [ ] ***Task2***\n- [ ] ***Task3***",
       "styleAttributes": {},
       "x": 210,
       "y": 760,
