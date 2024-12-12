@@ -57,8 +57,8 @@
       "type": "text",
       "text": "# TODO.TXT\n\n- [ ] ***Task 1***\n- [ ] ***Task 2***\n- [ ] ***Task 3***",
       "styleAttributes": {},
-      "x": 280,
-      "y": 500,
+      "x": 350,
+      "y": 480,
       "width": 260,
       "height": 200,
       "color": "2"
@@ -66,12 +66,12 @@
     {
       "id": "e47da5ab3b242f72",
       "type": "text",
-      "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n+ \n",
+      "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n",
       "styleAttributes": {},
-      "x": 0,
-      "y": 20,
+      "x": -10,
+      "y": 480,
       "width": 280,
-      "height": 180,
+      "height": 160,
       "color": "1"
     }
   ],
@@ -93,6 +93,34 @@
       "fromNode": "8ce2d11052e75800",
       "fromSide": "bottom",
       "toNode": "e62d3e58f0d61622",
+      "toSide": "top"
+    },
+    {
+      "id": "81e013a379e92939",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "fromNode": "e47da5ab3b242f72",
+      "fromSide": "right",
+      "toNode": "8ce2d11052e75800",
+      "toSide": "left"
+    },
+    {
+      "id": "60d71aae37f6f0bb",
+      "styleAttributes": {},
+      "fromNode": "e47da5ab3b242f72",
+      "fromSide": "right",
+      "toNode": "e62d3e58f0d61622",
+      "toSide": "left"
+    },
+    {
+      "id": "599cfee06f2694d0",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "fromNode": "a63f7543f97a34a5",
+      "fromSide": "bottom",
+      "toNode": "e47da5ab3b242f72",
       "toSide": "top"
     }
   ],
