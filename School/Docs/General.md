@@ -10,12 +10,10 @@
 # Recuperaciones
 
 
-| ENERO         | 7   | 8   | 9   |
-| ------------- | --- | --- | --- |
-| ***Lengua***  |     |     |     |
-| ***Inglés***  |     |     |     |
-| ***Euskera*** |     |     |     |
-|               |     |     |     |
+| ENERO | 7   | 8   | 9   |
+| ----- | --- | --- | --- |
+|       |     |     |     |
+
 
 
 | Asignatura         | Media Eval 1 | Eval 2 | Global |
