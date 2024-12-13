@@ -20,14 +20,14 @@
 
 
 
-| Asignatura         | Media Eval 1 | Eval 2 | Global |
-| ------------------ | ------------ | ------ | ------ |
-| Euskera            | 7.5          |        |        |
-| Inglés             | 7            |        |        |
-| Economía           | 7            |        |        |
-| Cultura Cientifica | 9.5          |        |        |
-| Filosofía          | 7.5          |        |        |
-| Educación Física   | 7            |        |        |
-| Física             | 7.5          |        |        |
-| Mate               |              |        |        |
-| Lengua             | 6            |        |        |
+| Asignatura         | Media Eval 1 | 1.Recu |     | 2.Recu | Global |
+| ------------------ | ------------ | ------ | --- | ------ | ------ |
+| Euskera            | 7.5          |        |     |        |        |
+| Inglés             | 7            |        |     |        |        |
+| Economía           | 7            |        |     |        |        |
+| Cultura Cientifica | 9.5          |        |     |        |        |
+| Filosofía          | 7.5          |        |     |        |        |
+| Educación Física   | 7            |        |     |        |        |
+| Física             | 7.5          |        |     |        |        |
+| Mate               | 6.5          |        |     |        |        |
+| Lengua             | 6            |        |     |        |        |
