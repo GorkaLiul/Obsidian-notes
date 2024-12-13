@@ -2,6 +2,7 @@
 ---
 # Medias
 
+7 Enero, HIstoria, gazte, Euskera, Ingelesa
 
 | Asignatura         | Media Eval 1 | Eval 2 | Global |
 | ------------------ | ------------ | ------ | ------ |
