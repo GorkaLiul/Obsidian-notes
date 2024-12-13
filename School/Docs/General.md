@@ -27,6 +27,7 @@
 | Economía           | 7            |        |        |
 | Cultura Cientifica | 9.5          |        |        |
 | Filosofía          | 7.5          |        |        |
-| Educación Física   |              |        |        |
-| Física             |              |        |        |
+| Educación Física   | 7            |        |        |
+| Física             | 7.5          |        |        |
 | Mate               |              |        |        |
+| Lengua             | 6            |        |        |
