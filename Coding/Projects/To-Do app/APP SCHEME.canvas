@@ -33,22 +33,12 @@
       "height": 340
     },
     {
-      "id": "124a5be3752e21a7",
-      "type": "file",
-      "file": ",.png",
-      "styleAttributes": {},
-      "x": -60,
-      "y": 330,
-      "width": 60,
-      "height": 60
-    },
-    {
       "id": "e47da5ab3b242f72",
       "type": "text",
       "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n",
       "styleAttributes": {},
-      "x": -240,
-      "y": 480,
+      "x": -300,
+      "y": 470,
       "width": 310,
       "height": 160,
       "color": "1"
@@ -58,8 +48,8 @@
       "type": "text",
       "text": "# FILESYSTEM",
       "styleAttributes": {},
-      "x": -240,
-      "y": 260,
+      "x": -300,
+      "y": 250,
       "width": 260,
       "height": 140,
       "color": "5"
@@ -69,8 +59,8 @@
       "type": "file",
       "file": ",.png",
       "styleAttributes": {},
-      "x": -220,
-      "y": 330,
+      "x": -280,
+      "y": 320,
       "width": 60,
       "height": 60
     },
@@ -79,8 +69,18 @@
       "type": "file",
       "file": ",.png",
       "styleAttributes": {},
-      "x": -140,
-      "y": 330,
+      "x": -200,
+      "y": 320,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "124a5be3752e21a7",
+      "type": "file",
+      "file": ",.png",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 320,
       "width": 60,
       "height": 60
     },
@@ -89,8 +89,8 @@
       "type": "text",
       "text": "# UI\n\n- **Tui Crate**\n- I/O error Handler\n- back",
       "styleAttributes": {},
-      "x": -360,
-      "y": 700,
+      "x": -420,
+      "y": 690,
       "width": 200,
       "height": 200
     }
