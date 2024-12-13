@@ -57,12 +57,12 @@
     {
       "id": "63ba6493632975df",
       "type": "text",
-      "text": "# UI\n\n- **Tui Crate**\n- I/O ",
+      "text": "# UI\n\n- **Tui Crate**\n- I/O error Handler\n- back",
       "styleAttributes": {},
       "x": -200,
       "y": 705,
       "width": 200,
-      "height": 160
+      "height": 200
     },
     {
       "id": "32e2fc337d606898",
