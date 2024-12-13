@@ -3,8 +3,9 @@
 # SCHEME: #rust 
 
 ![[APP SCHEME.canvas|Untitled]]
-# **TaskList**: 
-
+# **TaskList:** 
 
 - [x] Create ${WORKING_DIR} 
-- [ ] Create To 
+- [x] Create ${WORKING_DIR/TODO.TXT}
+
+$2^m$ 
