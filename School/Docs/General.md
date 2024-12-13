@@ -2,7 +2,12 @@
 ---
 # Medias
 
-7 Enero, HIstoria, gazte, Euskera, Ingelesa
+7 Enero: gazte, Euskera, Ingelesa
+
+8 Enero, Mate, Filo, Kirola
+9 Física, Economia, Dibujo
+
+
 
 | Asignatura         | Media Eval 1 | Eval 2 | Global |
 | ------------------ | ------------ | ------ | ------ |
