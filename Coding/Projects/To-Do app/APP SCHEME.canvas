@@ -87,12 +87,11 @@
     {
       "id": "63ba6493632975df",
       "type": "text",
-      "text": "# UIX\n\n- **Tui Crate**",
-      "styleAttributes": {},
+      "text": "# UI\n\n- **Tui Crate**",
       "x": -200,
       "y": 705,
       "width": 200,
-      "height": 110
+      "height": 120
     }
   ],
   "edges": [
