@@ -2,7 +2,7 @@
 
 
 ---
-## #Esp32 compatibility with std and no-std
+## #Esp32 compatibility with std
 
 
 | Board<br>    | std | no_std |
@@ -15,7 +15,6 @@
 | ESP32-s3     | yes | yes    |
 
 ---
-
 ## #Esp32  Rust target
 
 | MCU       | TARGET                        |
@@ -29,10 +28,12 @@
 | ESP32-H2  | riscv32imac-esp-espidf        |
 | ESP32-P4  | riscv32imafc-esp-espidf       |
 
+
+
 ---
 ## Template for esp32-idf
 ### #Github   repo at:
-	https://github.com/esp-rs/esp-idf-template
+	https://github.com/esp-rs/esp-idf-template 
 ```embed
 title: "GitHub - esp-rs/esp-idf-template: A “Hello, world!” template of a Rust binary crate for the ESP-IDF framework."
 image: "https://opengraph.githubassets.com/61296cb7c626a67651b70ebd3aa40ff26d528ad4bfba6808dd4622b1bfd0fe56/esp-rs/esp-idf-template"
@@ -49,6 +50,5 @@ url: "https://github.com/esp-rs/esp-idf-template "
 
 ---
 ## __Using the embedded screen__
-
 here I will be listing all the information related to usign the oled screen with an esp32. 
 Topics like #Crates #Github repos and #Youtube  videos will be listed.
