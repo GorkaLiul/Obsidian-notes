@@ -72,6 +72,24 @@
       "y": 350,
       "width": 60,
       "height": 60
+    },
+    {
+      "id": "0c3f725548f4ef3c",
+      "type": "file",
+      "file": ",.png",
+      "x": 100,
+      "y": 350,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "124a5be3752e21a7",
+      "type": "file",
+      "file": ",.png",
+      "x": 180,
+      "y": 350,
+      "width": 60,
+      "height": 60
     }
   ],
   "edges": [
