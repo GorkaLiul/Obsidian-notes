@@ -1,38 +1,6 @@
 {
   "nodes": [
     {
-      "id": "8ce2d11052e75800",
-      "type": "text",
-      "text": "# $APP_DIR\n",
-      "styleAttributes": {},
-      "x": 440,
-      "y": 260,
-      "width": 260,
-      "height": 140,
-      "color": "4"
-    },
-    {
-      "id": "e62d3e58f0d61622",
-      "type": "text",
-      "text": "# TODO.TXT\n\n1. ***Task1&Description&Tags&Status-***\n2. \n3.  ***Task2&Description&Tags&Status-*** ",
-      "styleAttributes": {},
-      "x": 440,
-      "y": 430,
-      "width": 260,
-      "height": 260,
-      "color": "2"
-    },
-    {
-      "id": "6838c17b25a7b9b5",
-      "type": "text",
-      "text": "# TERMINAL\n\n## I/0 Connection\n## UI VIEW\n---\n- [ ] ***Task1***  \n- [ ] ***Task2***\n- [ ] ***Task3***",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 800,
-      "width": 540,
-      "height": 340
-    },
-    {
       "id": "e47da5ab3b242f72",
       "type": "text",
       "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n",
@@ -93,6 +61,38 @@
       "y": 690,
       "width": 200,
       "height": 200
+    },
+    {
+      "id": "e62d3e58f0d61622",
+      "type": "text",
+      "text": "# TODO.TXT\n\n1. ***Task1&Description&Tags&Status-***\n2. \n3.  ***Task2&Description&Tags&Status-*** ",
+      "styleAttributes": {},
+      "x": 410,
+      "y": 500,
+      "width": 260,
+      "height": 260,
+      "color": "2"
+    },
+    {
+      "id": "6838c17b25a7b9b5",
+      "type": "text",
+      "text": "# TERMINAL\n\n## I/0 Connection\n## UI VIEW\n---\n- [ ] ***Task1***  \n- [ ] ***Task2***\n- [ ] ***Task3***",
+      "styleAttributes": {},
+      "x": 130,
+      "y": 790,
+      "width": 540,
+      "height": 340
+    },
+    {
+      "id": "8ce2d11052e75800",
+      "type": "text",
+      "text": "# WORKING_DIR",
+      "styleAttributes": {},
+      "x": 350,
+      "y": 220,
+      "width": 320,
+      "height": 160,
+      "color": "4"
     }
   ],
   "edges": [
