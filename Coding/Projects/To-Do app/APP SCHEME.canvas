@@ -77,7 +77,7 @@
     {
       "id": "6838c17b25a7b9b5",
       "type": "text",
-      "text": "# TERMINAL\n\n## I/0 Connection\n---\n- [ ] ***Task1***  \n- [ ] ***Task2***\n- [ ] ***Task3***",
+      "text": "# TERMINAL\n\n## I/0 Connection\n## UI VIEW\n---\n- [ ] ***Task1***  \n- [ ] ***Task2***\n- [ ] ***Task3***",
       "styleAttributes": {},
       "x": 210,
       "y": 760,
@@ -87,11 +87,11 @@
     {
       "id": "63ba6493632975df",
       "type": "text",
-      "text": "# UIX\n\n- ",
-      "x": -210,
-      "y": 730,
+      "text": "# UIX\n\n- **Tui Crate**",
+      "x": -200,
+      "y": 705,
       "width": 200,
-      "height": 140
+      "height": 110
     }
   ],
   "edges": [
@@ -173,7 +173,8 @@
       "fromNode": "63ba6493632975df",
       "fromSide": "bottom",
       "toNode": "6838c17b25a7b9b5",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "6"
     }
   ],
   "metadata": {}
