@@ -5,5 +5,12 @@
 ![[APP SCHEME.canvas|Untitled]]
 # **TaskList**: 
 
-- [ ] Create ${WORKING_DIR} 
+
+
+| TASK  |     |     |
+| ----- | --- | --- |
+| - [ ] |     |     |
+
+- [x] Create ${WORKING_DIR} 
+- [ ] 
 - [ ] 
