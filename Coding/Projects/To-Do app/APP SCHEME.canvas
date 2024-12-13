@@ -1,24 +1,13 @@
 {
   "nodes": [
     {
-      "id": "c10970d1970181e4",
-      "type": "text",
-      "text": "# FILESYSTEM",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 280,
-      "width": 260,
-      "height": 140,
-      "color": "5"
-    },
-    {
       "id": "8ce2d11052e75800",
       "type": "text",
       "text": "# $APP_DIR\n",
       "styleAttributes": {},
-      "x": 380,
-      "y": 280,
-      "width": 200,
+      "x": 440,
+      "y": 260,
+      "width": 260,
       "height": 140,
       "color": "4"
     },
@@ -27,50 +16,61 @@
       "type": "text",
       "text": "# TODO.TXT\n\n1. ***Task1&Description&Tags&Status-***\n2. \n3.  ***Task2&Description&Tags&Status-*** ",
       "styleAttributes": {},
-      "x": 400,
-      "y": 480,
+      "x": 440,
+      "y": 430,
       "width": 260,
       "height": 260,
       "color": "2"
-    },
-    {
-      "id": "e47da5ab3b242f72",
-      "type": "text",
-      "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n",
-      "styleAttributes": {},
-      "x": -10,
-      "y": 500,
-      "width": 280,
-      "height": 160,
-      "color": "1"
     },
     {
       "id": "6838c17b25a7b9b5",
       "type": "text",
       "text": "# TERMINAL\n\n## I/0 Connection\n## UI VIEW\n---\n- [ ] ***Task1***  \n- [ ] ***Task2***\n- [ ] ***Task3***",
       "styleAttributes": {},
-      "x": 210,
-      "y": 760,
-      "width": 410,
-      "height": 320
+      "x": 160,
+      "y": 800,
+      "width": 540,
+      "height": 340
     },
     {
-      "id": "63ba6493632975df",
-      "type": "text",
-      "text": "# UI\n\n- **Tui Crate**\n- I/O error Handler\n- back",
+      "id": "124a5be3752e21a7",
+      "type": "file",
+      "file": ",.png",
       "styleAttributes": {},
-      "x": -200,
-      "y": 705,
-      "width": 200,
-      "height": 200
+      "x": -60,
+      "y": 330,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "e47da5ab3b242f72",
+      "type": "text",
+      "text": "   # $ APP_SOURCE\n\n+ main.rs\n+ Cargo.Toml\n",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 480,
+      "width": 310,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "c10970d1970181e4",
+      "type": "text",
+      "text": "# FILESYSTEM",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 260,
+      "width": 260,
+      "height": 140,
+      "color": "5"
     },
     {
       "id": "32e2fc337d606898",
       "type": "file",
       "file": ",.png",
       "styleAttributes": {},
-      "x": 20,
-      "y": 350,
+      "x": -220,
+      "y": 330,
       "width": 60,
       "height": 60
     },
@@ -79,20 +79,20 @@
       "type": "file",
       "file": ",.png",
       "styleAttributes": {},
-      "x": 100,
-      "y": 350,
+      "x": -140,
+      "y": 330,
       "width": 60,
       "height": 60
     },
     {
-      "id": "124a5be3752e21a7",
-      "type": "file",
-      "file": ",.png",
+      "id": "63ba6493632975df",
+      "type": "text",
+      "text": "# UI\n\n- **Tui Crate**\n- I/O error Handler\n- back",
       "styleAttributes": {},
-      "x": 180,
-      "y": 350,
-      "width": 60,
-      "height": 60
+      "x": -360,
+      "y": 700,
+      "width": 200,
+      "height": 200
     }
   ],
   "edges": [
@@ -154,7 +154,7 @@
         "arrow": "triangle-outline"
       },
       "fromNode": "e47da5ab3b242f72",
-      "fromSide": "bottom",
+      "fromSide": "right",
       "toNode": "6838c17b25a7b9b5",
       "toSide": "left",
       "fromEnd": "arrow",
