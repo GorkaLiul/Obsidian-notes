@@ -7,6 +7,15 @@
 8 Enero, Mate, Filo, Kirola
 9 Física, Economia, Dibujo
 
+# Recuperaciones
+
+
+| ENERO         | 7   | 8   | 9   |
+| ------------- | --- | --- | --- |
+| ***Lengua***  |     |     |     |
+| ***Inglés***  |     |     |     |
+| ***Euskera*** |     |     |     |
+|               |     |     |     |
 
 
 | Asignatura         | Media Eval 1 | Eval 2 | Global |
