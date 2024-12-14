@@ -21,4 +21,9 @@ Creo que si pero tengo razones, no siempre he sido así y hay personas que han c
 
 Iraia me remplazó por un gringo random como si no fuese nada y cómo pude no haber estado mal cuando por mi no se interesaba ni en mis proyectos. 
 
-Zero me enseñó a hablar con chicas online y fue la peor experiencia, hablar por una semana o dos con chicas a las que no conozfo de nada fue sin duada una experiencia horrible y por si no fuese malo ya
+Zero me enseñó a hablar con chicas online y fue la peor experiencia, hablar por una semana o dos con chicas a las que no conozfo de nada fue sin duada una experiencia horrible y por si no fuese malo ya, conocí a Sara
+
+Sara fue la persona que probablemente más traumas me ha traido. Es increible pensar como alguien de 1,58  y de un país tercermundista a **2006 km**
+pueda influir tanto. Esa desgraciada me enseñó lo que es sobrepensar de verdad y sentirme culpable por priorizar mis sentimientos. 
+
+A veces no entiendo como después de lo que me hizo no 
