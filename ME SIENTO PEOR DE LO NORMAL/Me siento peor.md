@@ -11,4 +11,10 @@ Me jode que ya no hablamos por las noches como antes y me quedaba hasta dormirme
 
 **ME JODE** que el que me ignore tanto no es solo porque le guste el juego sino que juega con otro chico más que conmigo. Cuando dejo de jugar con ella siempre está en un grupo con alguien más y no entiendo como siempre dice que le da vergüenza hablar con gente en las partidas y que solo da información sobre los enemigos cuando entra a jugar todos los días con otro. 
 
-Me jode que siempre me contaba qué tal iban sus partidas y lo que contaban sus compañeros pero no entiendo que yo siendo su novio sea el último en enterarme de que lleva jugabdo 
+Me jode que siempre me contaba qué tal iban sus partidas y lo que contaban sus compañeros pero no entiendo que yo siendo su novio sea el último en enterarme de que ha estado jugando con la misma persona más partidas que conmigo. 
+
+También estoy convencido de que tiene su Instagrmam y Discord.
+
+# Soy obsesivo?
+
+Creo que si pero tengo razones, no siempre he sido así y hay personas que han cambiado eso, igual soy inseguro pero la gente no me lo ha puesto facil, entiendo que soy una persona dificil pero nadie nunca se ha quedado
