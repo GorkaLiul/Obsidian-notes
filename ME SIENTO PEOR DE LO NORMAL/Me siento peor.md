@@ -17,4 +17,8 @@ También estoy convencido de que tiene su Instagrmam y Discord.
 
 # Soy obsesivo?
 
-Creo que si pero tengo razones, no siempre he sido así y hay personas que han cambiado eso, igual soy inseguro pero la gente no me lo ha puesto facil, entiendo que soy una persona dificil pero nadie nunca se ha quedado
+Creo que si pero tengo razones, no siempre he sido así y hay personas que han cambiado eso, igual soy inseguro pero la gente no me lo ha puesto facil, entiendo que soy una persona dificil pero nadie nunca se ha quedado conmigo durante mucho tiempo.
+
+Iraia me remplazó por un gringo random como si no fuese nada y cómo pude no haber estado mal cuando por mi no se interesaba ni en mis proyectos. 
+
+Zero me enseñó a hablar con chicas online y fue la peor experiencia, hablar por una semana o dos con chicas a las que no conozfo de nada fue sin duada una experiencia horrible y por si no fuese malo ya
