@@ -7,4 +7,6 @@ De igual manera me siento mal porque mis notas mienten, aun que la quiero mucho 
 Me arrepiento de haberle enseñado el Valorant. 
 Juega mucho y no solo eso pero se quita tiempo para hablar conmigo  y me duele porque dice que quiere ser buena para jugar conmigo y carrearme. Suena normal y se qué soy muy obsesivo pero hay algo más. Juega mucho entre semana y ya no hablamos tanto y **ME JODE QUE ME IGNORA POR JUGAR A UN PUTO JUEGO DE MIERDA.** 
 
-Me jode que ya no hablamos por las noches como antes y me quedaba hasta dormirme con ella s
+Me jode que ya no hablamos por las noches como antes y me quedaba hasta dormirme con ella solo para irme a dormir pensando en ella y despertar diciendo lo mucho que la quiero o preguntarle qué tal ha dormido.
+
+**ME JODE** que el que me ignore tanto no es solo porque le guste el juego sino que juega con otro chico más que conmigo. Cuando dejo de jugar con ella siempre está en un grupo con alguien más y no entiendo como siempre dice que le da vergüenza hablar 
