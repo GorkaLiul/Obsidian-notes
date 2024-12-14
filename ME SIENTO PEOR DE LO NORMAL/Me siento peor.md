@@ -26,4 +26,8 @@ Zero me enseñó a hablar con chicas online y fue la peor experiencia, hablar po
 Sara fue la persona que probablemente más traumas me ha traido. Es increible pensar como alguien de 1,58  y de un país tercermundista a **2006 km**
 pueda influir tanto. Esa desgraciada me enseñó lo que es sobrepensar de verdad y sentirme culpable por priorizar mis sentimientos. 
 
-A veces no entiendo como después de lo que me hizo no 
+A veces no entiendo como después de lo que me hizo no me suicidé porque diga lo que diga lo pensé varias veces y casi lo hice. 
+
+# Por qué tengo miedo de encontrar a Sara
+
+Tengo miedo de encontrar a Sara porque por primera vez en mucho tiempo genuinamente quiero a alguien y esperaba que #thao me quisiera de la misma forma pero muchas veces me siento mal y no se si es por ella o porque me recuerda a momentos previos de los que solo 
