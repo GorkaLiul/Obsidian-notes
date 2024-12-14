@@ -30,4 +30,6 @@ A veces no entiendo como después de lo que me hizo no me suicidé porque diga l
 
 # Por qué tengo miedo de encontrar a Sara
 
-Tengo miedo de encontrar a Sara porque por primera vez en mucho tiempo genuinamente quiero a alguien y esperaba que #thao me quisiera de la misma forma pero muchas veces me siento mal y no se si es por ella o porque me recuerda a momentos previos de los que solo 
+Tengo miedo de encontrar a Sara porque por primera vez en mucho tiempo genuinamente quiero a alguien y esperaba que #thao me quisiera de la misma forma pero muchas veces me siento mal y no se si es por ella o porque me recuerda a momentos previos de los que solo me quedan traumas e inseguridades. 
+
+Es normal  pensar que me estoy pasando porque le guste jugar con otra persona pero **Story time **,   sara me enseñó lo que es que te oculten a otra persona mientras te van cambiando con alguien mejor y al mismo tiempo te hacen sentir mal por no 
