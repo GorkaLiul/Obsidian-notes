@@ -34,4 +34,6 @@ Tengo miedo de encontrar a Sara porque por primera vez en mucho tiempo genuiname
 
 Es normal  pensar que me estoy pasando porque le guste jugar con otra persona pero **Story time **,   sara me enseñó lo que es que te oculten a otra persona mientras te van cambiando por alguien mejor y al mismo tiempo te hacen sentir mal por meterte. 
 
-Al principio me daba igual  que #thao juegue con otra persona, es decir, se me hizo raro ver la primera vez que estaba en un grupo con otra persona pero no lo di importancia porque me alegra que 
+Al principio me daba igual  que #thao juegue con otra persona, es decir, se me hizo raro ver la primera vez que estaba en un grupo con otra persona pero no lo di importancia porque me alegra que se lo pase bien.
+
+**ME JODE QUE** diga que se siente una carga porque decida hablar con más personas en una partida y luego procede a callarse el resto de la partida. **ME JODE** que me diga que la hago sentir ignorada cuando hay noches en las que me quedo
