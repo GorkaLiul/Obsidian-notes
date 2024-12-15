@@ -61,3 +61,8 @@ Afortunado el, #thao es una persona encantadora y no la culpo por remplazarme, s
 A quien coño lea esto sin tener derecho a verlo: 
 
 Primero que nada puto cotilla de mierda te has conectado a un server en remoto gracias por el correo!
+
+segundo, si crees que soy tóxico porque me molesta que no me responda cuando está jugando, piensa cómo se siente haber estado hablando hasta tarde con la mejor chica del mundo para ver como ya ni me responde. 
+No has tenido que decir **"Te hecho mucho de menos te apetece hablar"**, mendigando por atención y no has tenido las relaciones que he tenido yo para saber cómo acaba todo eso. como un mendigo , mendigando por atenci´ón  y no has tenido las relacionses que he tenido yo para saber c´óm oacaba oo acaba dtodo eso.
+
+Si soy tóxico culpa a mis exes, amigos pasados y a todo el mundo 
