@@ -52,4 +52,6 @@ Afortunado el, #thao es una persona encantadora y no la culpo por remplazarme, s
 
 **ME JODE** que me diga eso. Dice que cuando jugamos juntos  se siente ignorada pero yo me siento mal también porque siempre intento organizar mi mente y sacar temas de conversación solo para que me devuelva un silencio interminable o algun comentario impersonal. **ME JODE** que no puedo sacar temas de conversación y me haga sentir mal en parte por eso cuando se entretiene más con el otro. 
 
-**Me jode el  "pasalo be**
+**Me jode el  "pásalo bien en inglés, con las otras claro...** cuando se entretiene con otro mejor que yo y al mismo tiempo consigue hacer que me sienta mal por no ser suficientemente bueno. 
+
+**ME JODE** que se quite el activo en discord, probablemente sea porque sabe que lo uso para ver si está jugando o no cuando no me responde. Suena a 
