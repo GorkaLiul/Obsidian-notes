@@ -40,4 +40,9 @@ Al principio me daba igual  que #thao juegue con otra persona, es decir, se me h
 
 Me sentó mal porque nunca en su vida la he dejado en visto ni una sola vez. Siempre me esfuerzo por responder lo antes posible y si no puedo la aviso con antelación, me muero pensando en cómo hacerla sentir bien y que no se sienta insegura después de lo de su ex pero yo también tengo relaciones pasadas y cuando miro atrás no veo un solo momento en el que me he sentido realmente querido. 
 
-Me quedé mirando el mensaje con el pecho con plomo, noté como mil agujas de anestesia en el pecho no para calmar el dolor pero para dejarme completamente destroz
+Me quedé mirando el mensaje con el pecho con plomo, noté como mil agujas de anestesia en el pecho no para calmar el dolor pero para dejarme completamente destrozado y quitarme el pulso del todo. Momentos depués una taquicardia de la ostia acompañada de un amable mensaje sugiriendo lo amable que había sido dejandola en visto. 
+
+# moreno2
+
+Moreno2 es el chico que la tiene ocupada por las noches, la razón por la que ya casi no hablamos por las noches y el motivo por el que me siento remplazado una vez más. 
+
