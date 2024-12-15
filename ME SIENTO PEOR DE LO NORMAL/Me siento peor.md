@@ -67,6 +67,6 @@ No has tenido que decir **"Te hecho mucho de menos te apetece hablar"**, mendiga
 
 Si soy tóxico culpa a mis exes, amigos pasados y a todo el mundo que se ha metido conmigo recordandome una y otra vez lor emplazable que soy, si te parezco tóxico es porque no me viste cuando estaba llorando en mi cuarto pensando en #thao porque la hice sentir mal y es algo que nunca me perdonaré. O cuando Sara me torturaba por dentro y sentía como cada parte de mi se acababa pudriendo. 
 
-Yo quiero a #thao y aun siendo yo dificil de querer y tener el corazón en la mierda y lleno de veneno de otras personas decido darle el poco amor que me queda, tanto que no me dejo a mi y me jode ver como todo ese tiempo que dedico no va a ningun lado.
+*Yo quiero a #thao y aun siendo yo dificil de querer y tener el corazón en la mierda y lleno de veneno de otras personas decido darle el poco amor que me queda, tanto que no me dejo a mi y me jode ver como todo ese tiempo que dedico no va a ningun lado.*
 
-Estoy cansado de ayudar a la gente a sentirse mejor para acabar peor y que me abandonen depués. no soy el puto psicologo de nadie y no soy la puta de nadie, estoy harto de ser un perro, no quiero sentarme al lado de nadie esperando ansioso a que me acarici
+*Estoy cansado de ayudar a la gente a sentirse mejor para acabar peor y que me abandonen depués. no soy el puto psicologo de nadie y no soy la puta de nadie, estoy harto de ser un perro, no quiero sentarme al lado de nadie esperando ansioso a que me froten la cabeza y me digan que soy un buen chico. ESTOY CANSADO y estas cosas son las que me hacen un puto tóxico de mierda supongo.*
