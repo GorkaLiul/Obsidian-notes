@@ -54,4 +54,10 @@ Afortunado el, #thao es una persona encantadora y no la culpo por remplazarme, s
 
 **Me jode el  "pásalo bien en inglés, con las otras claro...** cuando se entretiene con otro mejor que yo y al mismo tiempo consigue hacer que me sienta mal por no ser suficientemente bueno. 
 
-**ME JODE** que se quite el activo en discord, probablemente sea porque sabe que lo uso para ver si está jugando o no cuando no me responde. Suena a 
+**ME JODE** que se quite el activo en discord, probablemente sea porque sabe que lo uso para ver si está jugando o no cuando no me responde. Suena tóxico de mi parte pero realmente me es igual, es un hábito que tuve con Sara y me hace fatal ver que no está activo, es un tick y realmente me relaja verlo, me hace sentir mal pero me aclara como todo lo que pensaba era cierto. 
+
+# Me cago en tus muertos
+
+A quien coño lea esto sin tener derecho a verlo: 
+
+Primero que nada puto cotilla de mierda te has conectado a un server en remoto gracias por el correo!
