@@ -46,3 +46,8 @@ Me quedé mirando el mensaje con el pecho con plomo, noté como mil agujas de an
 
 Moreno2 es el chico que la tiene ocupada por las noches, la razón por la que ya casi no hablamos por las noches y el motivo por el que me siento remplazado una vez más. 
 
+Afortunado el, #thao es una persona encantadora y no la culpo por remplazarme, soy muy malo hablando, no soy gracioso de verdad y se me da fatla hacerla reir y por mucho que lo intente se merece a alguien mejor. Me alegra que otro la haga reir. 
+
+# "Me siento ignorada"
+
+**ME JODE ** que me diga eso. 
