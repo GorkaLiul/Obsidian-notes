@@ -50,4 +50,6 @@ Afortunado el, #thao es una persona encantadora y no la culpo por remplazarme, s
 
 # "Me siento ignorada"
 
-**ME JODE ** que me diga eso. 
+**ME JODE** que me diga eso. Dice que cuando jugamos juntos  se siente ignorada pero yo me siento mal también porque siempre intento organizar mi mente y sacar temas de conversación solo para que me devuelva un silencio interminable o algun comentario impersonal. **ME JODE** que no puedo sacar temas de conversación y me haga sentir mal en parte por eso cuando se entretiene más con el otro. 
+
+**Me jode el  "pasalo be**
