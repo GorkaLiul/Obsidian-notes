@@ -8,4 +8,5 @@
 - [x] Create ${WORKING_DIR} 
 - [x] Create ${WORKING_DIR/TODO.TXT}
 - [ ] Manage proper Writing/Readint  something into the file
-i-[[2024-12-20 Todo-app IO + Task Enums]]
+- [ ]  [[2024-12-20 Todo-app IO + Task Enums]]
+- 
