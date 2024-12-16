@@ -93,6 +93,16 @@
       "width": 320,
       "height": 160,
       "color": "4"
+    },
+    {
+      "id": "557f71a14cd7594f",
+      "type": "text",
+      "text": "# Crates\n\n+ Dirs\n+ Tui",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 470,
+      "width": 260,
+      "height": 290
     }
   ],
   "edges": [
@@ -176,6 +186,14 @@
       "toNode": "6838c17b25a7b9b5",
       "toSide": "left",
       "color": "6"
+    },
+    {
+      "id": "d4637dd3c54246ca",
+      "styleAttributes": {},
+      "fromNode": "557f71a14cd7594f",
+      "fromSide": "right",
+      "toNode": "e47da5ab3b242f72",
+      "toSide": "left"
     }
   ],
   "metadata": {}
