@@ -22,7 +22,7 @@
 
 | Rust Todo-app with ratatui #Crate | https://github.com/omathot/todo_ratatui/blob/main/src/user_interfaces.rs |
 | --------------------------------- | ------------------------------------------------------------------------ |
-| Ratatui #Crate                    |                                                                          |
+| Ratatui #Crate                    | https://ratatui.rs/                                                      |
 
 
 
