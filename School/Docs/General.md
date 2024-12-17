@@ -31,4 +31,4 @@
 | Física             | 7.5          |        |     |        |        |
 | Mate               | 6.5          |        |     |        |        |
 | Lengua             | 6            |        |     |        |        |
-| dibujo técnico     |              |        |     |        |        |
+| dibujo técnico     | 6.5          |        |     |        |        |
