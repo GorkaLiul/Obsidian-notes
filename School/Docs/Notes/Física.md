@@ -7,11 +7,16 @@
 - **se mide en Jules (J)**
 - Sigue la formula:  
 
-$$
-$W=F⋅d$ 
+> [!Formulas]
+> $$
+> 
+> W=F⋅d
+> 
+> $$
 
-$W=∣F∣∣d∣cosθ$
-$$
+
+
+
 
 
 ``` $**
