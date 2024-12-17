@@ -61,4 +61,6 @@ La potencia se puede considerar la cantidad de trabajo que realiza un sistema po
 Esta se mide en ***Watts*** y por ser el cambio de trabajo por tiempo se representa con delta.
 
 $$
-P = 
+P = ∆(W)/(∆t)
+
+$$
