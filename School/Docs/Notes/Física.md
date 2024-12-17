@@ -70,5 +70,7 @@ Esta se mide en ***Watts*** y por ser el cambio de trabajo por tiempo se represe
 Hay dos tipos de potencia segun el tipo de información que representan. 
 
 + #### Potencia media
-	Representa el 
-+ 
+	Representa el cambio de la potencia durante un periodo de tiempo establecido 
++ #### Potencia momentanea 
+	+ Este tipo de potencia representa el valor de le energía potencial  cuando se aproxima a cero ($∆t -> 0$) 
+	
