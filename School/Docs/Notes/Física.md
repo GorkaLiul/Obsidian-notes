@@ -72,5 +72,7 @@ Hay dos tipos de potencia segun el tipo de información que representan.
 + #### Potencia media
 	Representa el cambio de la potencia durante un periodo de tiempo establecido 
 + #### Potencia momentanea 
-	+ Este tipo de potencia representa el valor de le energía potencial  cuando se aproxima a cero ($∆t -> 0$) 
-	
+	+ Este tipo de potencia representa el valor de le energía potencial  cuando se aproxima a cero ($∆t -> 0$)
+	+ Para calcular la potencia momentanea es necesario saber integrar y por simplicidad lo voy a omitir por ahora
+
+### 
