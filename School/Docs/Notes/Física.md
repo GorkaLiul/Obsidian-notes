@@ -80,14 +80,16 @@ Hay dos tipos de potencia segun el tipo de información que representan.
 > En ese caso: 
 > $$
 > P = ∆w/∆t = F∆s/∆t = Fv
+> $$
 
 
 ## Energía cinética
 
 ### Definición
 
-La energía 
+```
 
+```
 
 
 
