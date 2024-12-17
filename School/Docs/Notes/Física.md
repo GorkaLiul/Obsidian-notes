@@ -60,7 +60,7 @@ La potencia se puede considerar la cantidad de trabajo que realiza un sistema po
 
 Esta se mide en ***Watts*** y por ser el cambio de trabajo por tiempo se representa con delta.
 
-> [!Formulas]
+> [!Formula]
 > $$
 > P = ∆(W)/(∆t)
 > $$
@@ -75,11 +75,21 @@ Hay dos tipos de potencia segun el tipo de información que representan.
 	+ Este tipo de potencia representa el valor de le energía potencial  cuando se aproxima a cero ($∆t -> 0$)
 	+ Para calcular la potencia momentanea es necesario saber integrar y por simplicidad lo voy a omitir por ahora
 
-
 > [!Warning] Potencia dependiendo de la fuerza y dirección
 > La potencia es igual a la multiplicación entre la velocidad y la fuerza dado el caso de que la fuerza aplicada sobre el objeto tenga efecto en la dirección del movimiento de estetencia es igual al la multiplicación entre la velocidad y la fuerza sdado el caso de qeu ue la fuerza apliacada sobre el objeto tenga efecto en direcila dirección del movimiento de este.
 > En ese caso: 
 > $$
-> P = ∆w/∆t = f∆r/
+> P = ∆w/∆t = F∆s/∆t = Fv
 
-E
+
+## Energía cinética
+
+### Definición
+
+La energía 
+
+
+
+
+
+
