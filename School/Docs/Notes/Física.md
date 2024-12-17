@@ -54,3 +54,11 @@ Viendo la fórmula, el trabajo mecánico se puede expresar como la multiplicaci�
 
 ## Potencia
 
+### Definición
+
+La potencia se puede considerar la cantidad de trabajo que realiza un sistema por unidad de tiempo
+
+Esta se mide en ***Watts*** y por ser el cambio de trabajo por tiempo se representa con delta.
+
+$$
+P = 
