@@ -2,6 +2,8 @@
 ---
 # Medias
 
+[[Boletín 1. Eval.pdf]]
+
 7 Enero: gazte, Euskera, Ingelesa
 
 8 Enero, Mate, Filo, Kirola
