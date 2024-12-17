@@ -88,8 +88,10 @@ Hay dos tipos de potencia segun el tipo de información que representan.
 ### Definición
 
 ```
-
+la energía cinética es la energía que tiene un objeto o sistema por el hecho de tener movimiento y por consecuencia velocidad.
 ```
+
+
 
 
 
