@@ -115,4 +115,11 @@ La capacidad de un objeto de obtener otro tipo de energía, en este caso cinéti
 
 ## Definición
 
-por definición 
+```
+Por definición la energía mecánica es un concepto simple que se puede ver como la suma de la energía potencial (gravitacional) y cinética
+```
+
+$E_{m} = E_{pg}+ E_{c}$
+
+
+
