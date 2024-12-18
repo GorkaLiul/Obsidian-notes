@@ -108,7 +108,7 @@ como concepto se puede simplificar, la energía potencial gravitacional es más 
 La capacidad de un objeto de obtener otro tipo de energía, en este caso cinética
 
 ## Formula: 
-````
-```
-$E_{pm} = mgh$
+
+> 	[!Note] 
+> 	$E_{pm} = mgh$
 
