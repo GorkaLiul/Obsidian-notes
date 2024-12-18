@@ -109,6 +109,6 @@ La capacidad de un objeto de obtener otro tipo de energía, en este caso cinéti
 
 ## Formula: 
 
-> 	[!Note] 
-> 	$E_{pm} = mgh$
+> $E_{pm} = mgh$
+
 
