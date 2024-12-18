@@ -125,6 +125,7 @@ $E_{m} = E_{pg}+ E_{c}$
  > La energía mecánica no es constante cuando fuerzas toman efecto sobre un objeto excepto cuando las fuerzas que aplican son fuerzas conservadoras.
  > La gravedad es ejemplo de esto:
  > Como la formula de la energía mecánica indica, esta es la suma de la enegía cinética y potencial
+ > 
  
  
  
