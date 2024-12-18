@@ -91,7 +91,10 @@ Hay dos tipos de potencia segun el tipo de información que representan.
 la energía cinética es la energía que tiene un objeto o sistema por el hecho de tener movimiento y por consecuencia velocidad.
 ```
 
-### Formula: $1/2mv^2$
+### Formula: 
+
+
+$a/b$
 
 
 
