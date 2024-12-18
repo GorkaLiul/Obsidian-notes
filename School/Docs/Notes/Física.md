@@ -97,8 +97,7 @@ la energía cinética es la energía que tiene un objeto o sistema por el hecho 
 
 ### Definición
 
-Es la energía que tiene un 
-
+Es la energía que tiene un objeto con masa al estar a determinada altura desde una referencia, generalmente el suelo
 
 
 
