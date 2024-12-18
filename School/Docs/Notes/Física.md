@@ -111,4 +111,8 @@ La capacidad de un objeto de obtener otro tipo de energía, en este caso cinéti
 
 > $E_{pm} = mgh$
 
+## Energía mecánica
 
+## Definición
+
+por definición 
