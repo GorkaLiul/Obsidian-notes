@@ -93,6 +93,8 @@ la energía cinética es la energía que tiene un objeto o sistema por el hecho 
 
 ### Formula $\frac{1}{2}mv^2$
 
+## Energía Potencial Gravitatoria
+
 
 
 
