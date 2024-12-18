@@ -121,14 +121,9 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
 
 $E_{m} = E_{pg}+ E_{c}$
 
- > [!Important] Principio de conservación de la energía mecánica 
+ > [!Important] # Principio de conservación de la energía mecánica 
  > La energía mecánica no es constante cuando fuerzas toman efecto sobre un objeto excepto cuando las fuerzas que aplican son fuerzas conservadoras.
  > La gravedad es ejemplo de esto:
- > Como la formula de la energía mecánica indica, esta es la suma de la enegía cinética y potencial
- > 
+ > Como la formula de la energía mecánica indica, esta es la suma de la energía cinética y potencial
+ >  Como estas dos dependen de la altura a medida que un objeto cae una altura h, su energía potencial disminuirá en la misma medida que su energía cinética sube
  
- 
- 
-
-
-
