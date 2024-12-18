@@ -121,5 +121,12 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
 
 $E_{m} = E_{pg}+ E_{c}$
 
+ > [!] Principio de conservación de la energía mecánica 
+ 
+ 
+> [!NOTE] Title
+> Contents
+
+
 
 
