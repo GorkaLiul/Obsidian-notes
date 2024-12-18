@@ -113,13 +113,13 @@ La capacidad de un objeto de obtener otro tipo de energía, en este caso cinéti
 
 ## Energía mecánica
 
-## Definición
+### Definición
 
 ```
 Por definición la energía mecánica es un concepto simple que se puede ver como la suma de la energía potencial (gravitacional) y cinética
 ```
 
-$E_{m} = E_{pg}+ E_{c}$
+ $E_{m} = E_{pg}+ E_{c}$
 
  > [!Important] # Principio de conservación de la energía mecánica 
  > La energía mecánica no es constante cuando fuerzas toman efecto sobre un objeto excepto cuando las fuerzas que aplican son fuerzas conservadoras.
@@ -127,3 +127,6 @@ $E_{m} = E_{pg}+ E_{c}$
  > Como la formula de la energía mecánica indica, esta es la suma de la energía cinética y potencial
  >  Como estas dos dependen de la altura a medida que un objeto cae una altura h, su energía potencial disminuirá en la misma medida que su energía cinética sube
  
+ >[! important] conceptualmente:
+ >
+ Un
