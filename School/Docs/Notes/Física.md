@@ -79,7 +79,7 @@ Hay dos tipos de potencia segun el tipo de información que representan.
 > La potencia es igual a la multiplicación entre la velocidad y la fuerza dado el caso de que la fuerza aplicada sobre el objeto tenga efecto en la dirección del movimiento de estetencia es igual al la multiplicación entre la velocidad y la fuerza sdado el caso de qeu ue la fuerza apliacada sobre el objeto tenga efecto en direcila dirección del movimiento de este.
 > En ese caso: 
 > $$
-> P $$$$∆w/∆t = F∆s/∆t = Fv
+>  p = \frac{∆w}{∆t} = \frac{F∆s}{∆t} = Fv
 > $$
 
 
