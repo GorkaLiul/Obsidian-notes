@@ -104,4 +104,11 @@ Es la energía que tiene un objeto con masa al estar a determinada altura desde 
 
 > [!Warning] Simplicidad conceptual
 > 
-como concepto l
+como concepto se puede simplificar, la energía potencial gravitacional es más sencilla si se piensa como: 
+La capacidad de un objeto de obtener otro tipo de energía, en este caso cinética
+
+## Formula: 
+````
+```
+$E_{pm} = mgh$
+
