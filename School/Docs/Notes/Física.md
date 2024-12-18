@@ -95,6 +95,9 @@ la energía cinética es la energía que tiene un objeto o sistema por el hecho 
 
 ## Energía Potencial Gravitatoria
 
+### Definición
+
+Es la energía que tiene un 
 
 
 
