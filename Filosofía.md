@@ -1,6 +1,8 @@
 # Qué es la filosofía
 
-amor hacia la sabiduria
+> [!Note] Definición
+> amor hacia la sabiduria
 
 ## tipos de filosofía
+
 
