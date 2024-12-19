@@ -1,1 +1,3 @@
 - [[Física]]
+- [[Economía]]
+- [[Filosofía]]
