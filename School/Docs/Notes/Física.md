@@ -128,17 +128,13 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  >  Como estas dos dependen de la altura a medida que un objeto cae una altura h, su energía potencial disminuirá en la misma medida que su energía cinética sube
  >  
  
- >[! important] conceptualmente:
+ >[! important] Explicación:
  >asumiendo que m = 1 y g = 10 por simplicidad
  $E_{m} = \frac{1}{2}$
  > $E_{m} = \frac{1}{2}v^{2}+ 10h$
  > $E_{m} = (\frac{h}{2t})^{2}+ 10h$
  > $E_{m0} = E_{m0}:    E_{pg}↓ eta  E_{c}↑$
+ > 
+ > en este caso la energía mecánica es constante dado el caso de una caida en vertical porque solo afectan energías conservadoras y la energía potencial perdida durante la caida, se suma en igual proporción a la energía cinética
  
  
- 
- 
-
-
-
-
