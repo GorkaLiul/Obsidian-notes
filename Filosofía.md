@@ -6,3 +6,4 @@
 ## tipos de filosofía
 
 
+
