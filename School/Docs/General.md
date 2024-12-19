@@ -4,6 +4,15 @@
 
 [[Boletín 1. Eval.pdf]]
 
+
+## Recu 1. eval econo teoría
+(1-2 Temas)
+errentaren fluxu zirkulara
+3 merkatu mota ezberdinak + hoietako hutsegiteak eta desabantailak
+
+Temas 4-6
+tasas coupación, formula del punto de equilibrio, 
+
 7 Enero: gazte, Euskera, Ingelesa
 
 8 Enero, Mate, Filo, Kirola
