@@ -14,7 +14,12 @@ Temas 4-6
 tasas coupación, formula del punto de equilibrio... (igual al examen de evaluación)
 
 # Recu 1.eval kirola
-
+--- 
+## Esgrima: 
+- Musculos
+- Posturas
+- Reglas básicas (PowerPoint alexia)
+- Musculos principales y secundarios
 
 # Recuperaciones
 
