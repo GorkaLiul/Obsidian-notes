@@ -11,7 +11,8 @@ errentaren fluxu zirkulara
 3 merkatu mota ezberdinak + hoietako hutsegiteak eta desabantailak
 
 Temas 4-6
-tasas coupación, formula del punto de equilibrio, 
+tasas coupación, formula del punto de equilibrio... (igual al examen de evaluación)
+
 
 7 Enero: gazte, Euskera, Ingelesa
 
