@@ -139,4 +139,5 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  
  ---
  >[!Warning] Cuando no se conserva
- >Cuando no se aplican fuerzas conserva
+ >Cuando no se aplican fuerzas conservadoras, el cambio en la energía mecánica es el trabajo de las fuerzas no conservadoras.
+ >$∆E_{m} = W_{fuerzasNoConservadoras}$
