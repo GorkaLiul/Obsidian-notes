@@ -126,10 +126,14 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  > La gravedad es ejemplo de esto:
  > Como la formula de la energía mecánica indica, esta es la suma de la energía cinética y potencial
  >  Como estas dos dependen de la altura a medida que un objeto cae una altura h, su energía potencial disminuirá en la misma medida que su energía cinética sube
+ >  
  
  >[! important] conceptualmente:
  >asumiendo que m = 1 y g = 10 por simplicidad
  $E_{m} = \frac{1}{2}$
+ > $E_{m} = \frac{1}{2}v^{2}+ 10h$
+ > $E_{m} = (\frac{h}{2t}) $
+ 
  
  
  
