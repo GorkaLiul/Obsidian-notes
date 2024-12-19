@@ -13,11 +13,8 @@ errentaren fluxu zirkulara
 Temas 4-6
 tasas coupación, formula del punto de equilibrio... (igual al examen de evaluación)
 
+# Recu 1.eval kirola
 
-7 Enero: gazte, Euskera, Ingelesa
-
-8 Enero, Mate, Filo, Kirola
-9 Física, Economia, Dibujo
 
 # Recuperaciones
 
