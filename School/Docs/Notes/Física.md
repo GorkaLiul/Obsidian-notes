@@ -130,6 +130,9 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  >[! important] conceptualmente:
  >asumiendo que m = 1 y g = 10 por simplicidad
  $E_{m} = \frac{1}{2}$
+ 
+ 
+ 
 
 
 
