@@ -20,7 +20,12 @@ tasas coupación, formula del punto de equilibrio... (igual al examen de evaluac
 - Posturas
 - Reglas básicas (PowerPoint alexia)
 - Musculos principales y secundarios
-
+## Indarra: 
+- Grupos musculares principales
+- 9 razones principales para ejercitar la fuerza
+- Rm bpm...
+- 3 tipos de fuerza
+- 4 factores a tener en cuanta al entrenar 
 # Recuperaciones
 
 
