@@ -143,4 +143,5 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  >$∆E_{m} = W_{fuerzasNoConservadoras}$
 
 >[!Note] Ejemplo : fuerza de rozamiento
-> $$
+> $W_{Fr} = Fr∆s*Cosφ$
+
