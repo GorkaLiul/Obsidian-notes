@@ -144,5 +144,3 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
 
 >[!Note] Ejemplo : fuerza de rozamiento
 > $W_{Fr} = Fr∆s*Cosφ$
-
--
