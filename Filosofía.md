@@ -1,3 +1,3 @@
-## Qué es la filosofía
+# Qué es la filosofía
 
 ## tipos de filosofía
