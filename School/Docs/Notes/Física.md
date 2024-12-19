@@ -130,6 +130,7 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  >[! important] conceptualmente:
  >asumiendo que m = 1 y g = 10 por simplicidad
  >$$
-E_{m} = \frac{	1}{2}mv^{2} + mgh '\n'
-E_{m} = \frac{1}{2}1v^{2}+ 10h
-
+E_{m} = \frac{	1}{2}mv^{2} + mgh $$ 
+$$
+ E_{m} = \frac{1}{2}1v^{2}+ 10h 
+$$$$
