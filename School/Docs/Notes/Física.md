@@ -9,7 +9,7 @@
 > [!Formulas]
 > $$
 > 
-> W=F⋅d
+> W=F⋅∆s*cosφ
 > 
 > $$
 > $$
