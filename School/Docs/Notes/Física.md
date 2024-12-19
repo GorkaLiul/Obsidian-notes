@@ -138,6 +138,9 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  > en este caso la energía mecánica es constante dado el caso de una caida en vertical porque solo afectan energías conservadoras y la energía potencial perdida durante la caida, se suma en igual proporción a la energía cinética
  
  ---
- >[!Warning] Cuando no se conserva
+ >[!Warning] ### Cuando no se conserva
  >Cuando no se aplican fuerzas conservadoras, el cambio en la energía mecánica es el trabajo de las fuerzas no conservadoras.
  >$∆E_{m} = W_{fuerzasNoConservadoras}$
+
+>[!Note] Ejemplo : fuerza de rozamiento
+> $$
