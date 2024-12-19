@@ -15,17 +15,19 @@ tasas coupación, formula del punto de equilibrio... (igual al examen de evaluac
 
 # Recu 1.eval kirola
 --- 
-## Esgrima: 
+## Esgrima(%20): 
 - Musculos
 - Posturas
 - Reglas básicas (PowerPoint alexia)
 - Musculos principales y secundarios
-## Indarra: 
+## Indarra (%20): 
 - Grupos musculares principales
 - 9 razones principales para ejercitar la fuerza
 - Rm bpm...
 - 3 tipos de fuerza
-- 4 factores a tener en cuanta al entrenar 
+- 4 factores a tener en cuanta al entrenar la fuerza (alexia)
+- 4 factores para la planificación del entrenamiento (elexia)
+- Entrenamendu sistemak 
 # Recuperaciones
 
 
