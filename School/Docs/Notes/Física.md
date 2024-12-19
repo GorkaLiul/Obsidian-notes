@@ -137,4 +137,6 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  > 
  > en este caso la energía mecánica es constante dado el caso de una caida en vertical porque solo afectan energías conservadoras y la energía potencial perdida durante la caida, se suma en igual proporción a la energía cinética
  
- 
+ ---
+ >[!Warning] Cuando no se conserva
+ >Cuando no se aplican fuerzas conserva
