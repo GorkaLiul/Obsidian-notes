@@ -128,5 +128,11 @@ Por definición la energía mecánica es un concepto simple que se puede ver com
  >  Como estas dos dependen de la altura a medida que un objeto cae una altura h, su energía potencial disminuirá en la misma medida que su energía cinética sube
  
  >[! important] conceptualmente:
- >
- Un
+ >asumiendo que m = 1 y g = 10 por simplicidad
+ >$$
+\frac{	1}{2}mv^1 
+ 
+ 
+ $$
+ 
+$$
