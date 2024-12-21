@@ -17,4 +17,3 @@ continuation of [[2024-12-14 Todo-App Scheme]]
 - [ ] Implement functions for manipulating tasks
 
 
-
