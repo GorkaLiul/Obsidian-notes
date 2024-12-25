@@ -27,5 +27,7 @@ los vectores se descomponen en n direcciones, en un plano 2D, y, x.
 	- Representación vectorial: 
 
 $$
-v_{vec} = 
+\vec{v} = (A, b )
 $$
+
+- 🍅 (pomodoro::WORK) (duration:: 20m) (begin:: 2024-12-25 20:44) - (end:: 2024-12-25 21:08)
