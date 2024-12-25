@@ -12,4 +12,7 @@ los vectores se descomponen en n direcciones, en un plano 2D, y, x.
 #### Elementos de un vector: 
 
 - Módulo: ***cuánto se mueve el vector?*** ***1u de distancia, 2 unidades?, 300...?*** alternativamente responde a ***Cómo de largo es el vector*** 
-- Dirección
+- Dirección: 
+	   - ***Representa en qué dirección se mueve el vector*** esta dirección se puede representar con ángulos sobre otras referencias(otro vector, el orígen (0,0), rectas...)
+	 - 
+	  
