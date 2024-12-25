@@ -25,5 +25,7 @@ los vectores se descomponen en n direcciones, en un plano 2D, y, x.
 		Ejemplo:  ***en una escalera mecánica la dirección de la escalera es diagonal, pero puedes recorrerla en dos sentidos, hacia arriba o abajo***
 		Ejemplo 2: ***una autopista recta tiene una sola dirección, pero se puede tomar en dos sentidos dependiendo del destino***
 	- Representación vectorial: 
-		******
-	 
+
+$$
+v_{vec} = 
+$$
