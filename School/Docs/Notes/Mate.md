@@ -21,5 +21,7 @@ los vectores se descomponen en n direcciones, en un plano 2D, y, x.
 	 - como cambio de y por x (pendiente)
 	 - como otra forma que represente la ***relación entre x, y*** 
 - ##### Sentido
-	- qué 
+	- qué sentido coge en la dirección del vector
+		
+		
 	 
