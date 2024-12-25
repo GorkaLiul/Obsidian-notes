@@ -2,8 +2,8 @@
 ### Vectores: 
 
 Definición: 
+```
+ Componente geométrico de n dimensiones, representa una direción
+```
 
-` Componente geométrico de n dimensiones, representa una direcci`
-$$
-
-$$
+	#### Componentes del vector:
