@@ -27,4 +27,4 @@ los vectores se descomponen en n direcciones, en un plano 2D, y, x.
 	- Representación vectorial: 
 		$\vec{v} = (A,B)$
 		$\vec{w}  =(-B, A)$
-		$\vec{w} y vec$
+		$\vec{w}$ y $\vec{v}$ comparten el la dirección pero tienen sentidos opuestos
