@@ -17,3 +17,6 @@
 # 2024-12-25
 ## Mate:
  - 🍅 (pomodoro::WORK) (duration:: 20m) (begin:: 2024-12-25 20:44) - (end:: 2024-12-25 21:08)
+# 2024-12-28
+
+-  10 min day plan
