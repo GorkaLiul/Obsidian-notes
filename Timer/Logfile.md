@@ -20,3 +20,4 @@
 # 2024-12-28
 
 -  10 min day plan
+- 🥤 (pomodoro::BREAK) (duration:: 5m) (begin:: 2024-12-28 12:46) - (end:: 2024-12-28 12:51)
