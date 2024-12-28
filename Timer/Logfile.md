@@ -21,3 +21,4 @@
 
 -  10 min day plan
 - 🥤 (pomodoro::BREAK) (duration:: 5m) (begin:: 2024-12-28 12:46) - (end:: 2024-12-28 12:51)
+- 🍅 (pomodoro::WORK) (duration:: 20m) (begin:: 2024-12-28 12:51) - (end:: 2024-12-28 13:13)
