@@ -1,6 +1,6 @@
 - [ ] #rust  Code idea: Blockchain implementation of a meme coin
 - [ ] #rust home server to hold documents 
-- [ ] #rust [[To-do App]]
-- [ ] #rust Terminal file manager [[Thao-rs]]
+- [ ] #rust [[Thao-rs]]
+- [ ] #rust Terminal file manager [[Fuzzy-rs]]
 - [ ] #rust Videomapping program
 - [ ] 
