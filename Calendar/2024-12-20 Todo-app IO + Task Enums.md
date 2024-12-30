@@ -2,7 +2,7 @@
 title: Todo-app IO + Task Enums
 allDay: true
 date: 2024-12-20
-completed: false
+completed: 2024-12-30T11:35:52.362+01:00
 type: single
 ---
 	
